@@ -12,7 +12,7 @@ go get -u github.com/open-falcon/mymon
 cd $GOPATH/src/github.com/open-falcon/mymon
 make
 
-# Add to crontab
+# Add to crontab, read "./myMon.cfg" by default
 echo '* * * * * cd ${WORKPATH} && ./mymon -c etc/mymon.cfg' > /etc/cron.d/mymon
 ```
 
