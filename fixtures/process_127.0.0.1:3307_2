@@ -1,0 +1,25 @@
+2018-08-02 17:41:31	4	event_scheduler	localhost		Daemon	373	Waiting on empty queue	
+2018-08-02 17:41:31	9	root	172.17.0.1:51440		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 17:54:16	4	event_scheduler	localhost		Daemon	320	Waiting on empty queue	
+2018-08-02 17:54:16	9	root	172.17.0.1:52090		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 17:57:28	4	event_scheduler	localhost		Daemon	512	Waiting on empty queue	
+2018-08-02 17:57:28	12	root	172.17.0.1:52458		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 18:00:47	4	event_scheduler	localhost		Daemon	711	Waiting on empty queue	
+2018-08-02 18:00:47	14	root	172.17.0.1:52682		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 19:01:23	4	event_scheduler	localhost		Daemon	28	Waiting on empty queue	
+2018-08-02 19:01:23	10	root	172.17.0.1:53842		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 19:10:28	4	event_scheduler	localhost		Daemon	29	Waiting on empty queue	
+2018-08-02 19:10:28	10	root	172.17.0.1:53954		Query	-1	starting	SHOW FULL PROCESSLIST
+2018-08-02 19:12:28	4	event_scheduler	localhost		Daemon	149	Waiting on empty queue	
+2018-08-02 19:12:28	12	root	172.17.0.1:53964		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 20:28:32	4	event_scheduler	localhost		Daemon	4713	Waiting on empty queue	
+2018-08-02 20:28:32	13	root	172.17.0.1:53976		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 21:49:35	4	event_scheduler	localhost		Daemon	502	Waiting on empty queue	
+2018-08-02 21:49:35	17	slave	172.17.0.3:35416		Binlog Dump	35	Master has sent all binlog to slave; waiting for more updates	
+2018-08-02 21:49:35	19	root	172.17.0.1:54406		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 22:55:50	4	event_scheduler	localhost		Daemon	44	Waiting on empty queue	
+2018-08-02 22:55:50	12	root	172.17.0.1:54636		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 22:56:03	4	event_scheduler	localhost		Daemon	57	Waiting on empty queue	
+2018-08-02 22:56:03	14	root	172.17.0.1:54642		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-02 23:01:58	4	event_scheduler	localhost		Daemon	58	Waiting on empty queue	
+2018-08-02 23:01:58	12	root	172.17.0.1:54948		Query	0	starting	SHOW FULL PROCESSLIST

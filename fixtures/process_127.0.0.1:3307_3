@@ -1,0 +1,4 @@
+2018-08-03 11:21:41	4	event_scheduler	localhost		Daemon	27	Waiting on empty queue	
+2018-08-03 11:21:41	12	root	172.17.0.1:55374		Query	0	starting	SHOW FULL PROCESSLIST
+2018-08-03 11:24:59	4	event_scheduler	localhost		Daemon	33	Waiting on empty queue	
+2018-08-03 11:24:59	12	root	172.17.0.1:55480		Query	0	starting	SHOW FULL PROCESSLIST
