@@ -12,6 +12,7 @@
 - 新增了`vendor`包管理。
 - 新增了源代码文件头Copyright信息。
 - 新增了`Makefile`文件。
+- 新增了`docker`测试环境,可通过`make docker <mysql version>`统一构建。
 
 ### Fixed
 
@@ -23,6 +24,7 @@
 - 修改了`README.md`文件。
 - 修改了`NOTICE`文件。
 - 修改了日志级别为RFC5424标准的7个日志级别。
+- 修改了`vendor`中的[mymysql](https://github.com/ziutek/mymysql)包，使其支持mysql8.0默认鉴权方式。
 
 ### Refactored
 
